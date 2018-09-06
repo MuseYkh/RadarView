@@ -1,4 +1,4 @@
-package sxtn.landun.com.radarviewdemo;
+package com.muse.radarviewdemo;
 
 import android.content.Context;
 import android.content.res.TypedArray;

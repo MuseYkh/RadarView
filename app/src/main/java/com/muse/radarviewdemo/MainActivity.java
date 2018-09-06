@@ -1,4 +1,4 @@
-package sxtn.landun.com.radarviewdemo;
+package com.muse.radarviewdemo;
 
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;

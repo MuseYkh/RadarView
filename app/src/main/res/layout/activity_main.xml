@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <sxtn.landun.com.radarviewdemo.RadarView
+    <com.muse.radarviewdemo.RadarView
         android:id="@+id/radarView"
         app:radar_color="@color/colorAccent"
         app:radar_text_size="12sp"

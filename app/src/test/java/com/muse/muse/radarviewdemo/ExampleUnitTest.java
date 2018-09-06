@@ -1,4 +1,4 @@
-package sxtn.landun.com.radarviewdemo;
+package com.muse.muse.radarviewdemo;
 
 import org.junit.Test;
 
