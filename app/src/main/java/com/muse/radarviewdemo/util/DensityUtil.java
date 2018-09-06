@@ -1,4 +1,4 @@
-package com.muse.radarviewdemo;
+package com.muse.radarviewdemo.util;
 
 import android.content.Context;
 

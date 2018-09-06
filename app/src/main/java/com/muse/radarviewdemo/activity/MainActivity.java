@@ -1,8 +1,11 @@
-package com.muse.radarviewdemo;
+package com.muse.radarviewdemo.activity;
 
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
+
+import com.muse.radarviewdemo.R;
+import com.muse.radarviewdemo.view.RadarView;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.muse.radarviewdemo;
+package com.muse.radarviewdemo.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -10,6 +10,9 @@ import android.support.annotation.ColorInt;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
+
+import com.muse.radarviewdemo.R;
+import com.muse.radarviewdemo.util.DensityUtil;
 
 /**
  * author: muse
